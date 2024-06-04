@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Demo
 
-[Ver demo](https://ecossio.github.io/angular-countries-app/countries/by-capital)
+[Ver demo](https://ecossio.github.io/angular-countries-app)
 
 ## Development server
 
